@@ -5,8 +5,14 @@
     "declaration": true,
     "outDir": "./lib",
     "strict": true,
-    "types": ["node"]
+    "types": [
+      "node",
+      "@types/jest"
+    ]
   },
   "include": ["src"],
-  "exclude": ["node_modules", "**/__tests__/*"]
+  "exclude": [
+    "node_modules",
+    "**/__tests__/*"
+  ]
 }

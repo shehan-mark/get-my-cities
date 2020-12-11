@@ -13,7 +13,7 @@ const readCities = async (country: string, locale: string) => {
   const post = country.toLowerCase();
   
   try {
-    const allCities = await import(path.join(__dirname, `\\${post}\\${pre}_${post}.js`));
+    const allCities = await import(path.join(__dirname, `/${post}/${pre}_${post}.js`));
     return allCities;
   } catch (e) {
     console.log('------- error occured while trying to import file -------');
@@ -35,7 +35,7 @@ const getACity = async (country: string, locale: string, id: number) => {
   const post = country.toLowerCase();
 
   try {
-    const allCities = await import(path.join(__dirname, `\\${post}\\${pre}_${post}.js`));
+    const allCities = await import(path.join(__dirname, `/${post}/${pre}_${post}.js`));
     const filteredCity = allCities.filter((city: any) => {
       return city.id === id;
     });
