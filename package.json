@@ -1,0 +1,24 @@
+{
+  "name": "get-my-cities",
+  "version": "1.0.0",
+  "description": "a simple lib to city names with unique ids",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z3us94/get-my-cities.git"
+  },
+  "keywords": [
+    "city",
+    "cities",
+    "country",
+    "locale"
+  ],
+  "author": "Shehan Fonseka",
+  "bugs": {
+    "url": "https://github.com/z3us94/get-my-cities/issues"
+  },
+  "homepage": "https://github.com/z3us94/get-my-cities#readme"
+}
