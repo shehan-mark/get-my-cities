@@ -1,11 +1,14 @@
 {
   "name": "get-my-cities",
   "version": "1.0.0",
+  "description": "A nice greeter",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "description": "a simple lib to city names with unique ids",
-  "main": "index.js",
   "scripts": {
     "test": "jest --config jestconfig.json",
-    "build": "tsc"
+    "build": "tsc",
+    "prepare" : "npm run build"
   },
   "repository": {
     "type": "git",
