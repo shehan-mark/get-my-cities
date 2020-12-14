@@ -2,309 +2,309 @@
 
 module.exports = [{
   "id": 1223648,
-  "naem": "Welisara"
+  "name": "Welisara"
 },
 {
   "id": 1223738,
-  "naem": "Weligama"
+  "name": "Weligama"
 },
 {
   "id": 1224061,
-  "naem": "Wattegama"
+  "name": "Wattegama"
 },
 {
   "id": 1224085,
-  "naem": "Wattala"
+  "name": "Wattala"
 },
 {
   "id": 1225018,
-  "naem": "Vavuniya"
+  "name": "Vavuniya"
 },
 {
   "id": 1225142,
-  "naem": "Valvedditturai"
+  "name": "Valvedditturai"
 },
 {
   "id": 1225187,
-  "naem": "Vakarai"
+  "name": "Vakarai"
 },
 {
   "id": 1225514,
-  "naem": "Unawatuna"
+  "name": "Unawatuna"
 },
 {
   "id": 1226260,
-  "naem": "Trincomalee"
+  "name": "Trincomalee"
 },
 {
   "id": 1227037,
-  "naem": "Tangalle"
+  "name": "Tangalle"
 },
 {
   "id": 1227217,
-  "naem": "Talpe"
+  "name": "Talpe"
 },
 {
   "id": 1227300,
-  "naem": "Talawakele"
+  "name": "Talawakele"
 },
 {
   "id": 1228051,
-  "naem": "Sigiriya"
+  "name": "Sigiriya"
 },
 {
   "id": 1228730,
-  "naem": "Ratnapura"
+  "name": "Ratnapura"
 },
 {
   "id": 1229293,
-  "naem": "Puttalam"
+  "name": "Puttalam"
 },
 {
   "id": 1229901,
-  "naem": "Polonnaruwa"
+  "name": "Polonnaruwa"
 },
 {
   "id": 1229989,
-  "naem": "Point Pedro"
+  "name": "Point Pedro"
 },
 {
   "id": 1230089,
-  "naem": "Pita Kotte"
+  "name": "Pita Kotte"
 },
 {
   "id": 1230613,
-  "naem": "Peliyagoda"
+  "name": "Peliyagoda"
 },
 {
   "id": 1231410,
-  "naem": "Panadura"
+  "name": "Panadura"
 },
 {
   "id": 1232783,
-  "naem": "Nuwara Eliya"
+  "name": "Nuwara Eliya"
 },
 {
   "id": 1233369,
-  "naem": "Negombo"
+  "name": "Negombo"
 },
 {
   "id": 1234378,
-  "naem": "Mulleriyawa"
+  "name": "Mulleriyawa"
 },
 {
   "id": 1234569,
-  "naem": "Dehiwala-Mount Lavinia"
+  "name": "Dehiwala-Mount Lavinia"
 },
 {
   "id": 1234633,
-  "naem": "Moratuwa"
+  "name": "Moratuwa"
 },
 {
   "id": 1234808,
-  "naem": "Monaragala"
+  "name": "Monaragala"
 },
 {
   "id": 1235000,
-  "naem": "Minuwangoda"
+  "name": "Minuwangoda"
 },
 {
   "id": 1235107,
-  "naem": "Mihintale"
+  "name": "Mihintale"
 },
 {
   "id": 1235846,
-  "naem": "Matara"
+  "name": "Matara"
 },
 {
   "id": 1235855,
-  "naem": "Matale"
+  "name": "Matale"
 },
 {
   "id": 1236854,
-  "naem": "Maharagama"
+  "name": "Maharagama"
 },
 {
   "id": 1237980,
-  "naem": "Kurunegala"
+  "name": "Kurunegala"
 },
 {
   "id": 1238427,
-  "naem": "Kuliyapitiya"
+  "name": "Kuliyapitiya"
 },
 {
   "id": 1238992,
-  "naem": "Sri Jayewardenepura Kotte"
+  "name": "Sri Jayewardenepura Kotte"
 },
 {
   "id": 1239047,
-  "naem": "Kotikawatta"
+  "name": "Kotikawatta"
 },
 {
   "id": 1239593,
-  "naem": "Kolonnawa"
+  "name": "Kolonnawa"
 },
 {
   "id": 1239829,
-  "naem": "Koggala"
+  "name": "Koggala"
 },
 {
   "id": 1240372,
-  "naem": "Kilinochchi"
+  "name": "Kilinochchi"
 },
 {
   "id": 1240622,
-  "naem": "Kelaniya"
+  "name": "Kelaniya"
 },
 {
   "id": 1240723,
-  "naem": "Kegalle"
+  "name": "Kegalle"
 },
 {
   "id": 1240935,
-  "naem": "Katunayaka"
+  "name": "Katunayaka"
 },
 {
   "id": 1241076,
-  "naem": "Kataragama"
+  "name": "Kataragama"
 },
 {
   "id": 1241622,
-  "naem": "Kandy"
+  "name": "Kandy"
 },
 {
   "id": 1241750,
-  "naem": "Kandana"
+  "name": "Kandana"
 },
 {
   "id": 1241964,
-  "naem": "Kalutara"
+  "name": "Kalutara"
 },
 {
   "id": 1242110,
-  "naem": "Kalmunai"
+  "name": "Kalmunai"
 },
 {
   "id": 1242571,
-  "naem": "Kadugannawa"
+  "name": "Kadugannawa"
 },
 {
   "id": 1242833,
-  "naem": "Jaffna"
+  "name": "Jaffna"
 },
 {
   "id": 1242835,
-  "naem": "Ja Ela"
+  "name": "Ja Ela"
 },
 {
   "id": 1243867,
-  "naem": "Horana South"
+  "name": "Horana South"
 },
 {
   "id": 1243936,
-  "naem": "Homagama"
+  "name": "Homagama"
 },
 {
   "id": 1244178,
-  "naem": "Hikkaduwa"
+  "name": "Hikkaduwa"
 },
 {
   "id": 1244397,
-  "naem": "Hendala"
+  "name": "Hendala"
 },
 {
   "id": 1244596,
-  "naem": "Hatton"
+  "name": "Hatton"
 },
 {
   "id": 1244713,
-  "naem": "Haputale"
+  "name": "Haputale"
 },
 {
   "id": 1244773,
-  "naem": "Hanwella Ihala"
+  "name": "Hanwella Ihala"
 },
 {
   "id": 1246000,
-  "naem": "Gampola"
+  "name": "Gampola"
 },
 {
   "id": 1246007,
-  "naem": "Gampaha"
+  "name": "Gampaha"
 },
 {
   "id": 1246294,
-  "naem": "Galle"
+  "name": "Galle"
 },
 {
   "id": 1246924,
-  "naem": "Eravur Town"
+  "name": "Eravur Town"
 },
 {
   "id": 1247148,
-  "naem": "Ella Town"
+  "name": "Ella Town"
 },
 {
   "id": 1248158,
-  "naem": "Devinuwara"
+  "name": "Devinuwara"
 },
 {
   "id": 1248749,
-  "naem": "Dambulla"
+  "name": "Dambulla"
 },
 {
   "id": 1248991,
-  "naem": "Colombo"
+  "name": "Colombo"
 },
 {
   "id": 1249145,
-  "naem": "Chilaw"
+  "name": "Chilaw"
 },
 {
   "id": 1249931,
-  "naem": "Beruwala"
+  "name": "Beruwala"
 },
 {
   "id": 1249978,
-  "naem": "Bentota"
+  "name": "Bentota"
 },
 {
   "id": 1250161,
-  "naem": "Batticaloa"
+  "name": "Batticaloa"
 },
 {
   "id": 1250164,
-  "naem": "Battaramulla South"
+  "name": "Battaramulla South"
 },
 {
   "id": 1250615,
-  "naem": "Badulla"
+  "name": "Badulla"
 },
 {
   "id": 1251081,
-  "naem": "Anuradhapura"
+  "name": "Anuradhapura"
 },
 {
   "id": 1251459,
-  "naem": "Ampara"
+  "name": "Ampara"
 },
 {
   "id": 1251574,
-  "naem": "Ambalangoda"
+  "name": "Ambalangoda"
 },
 {
   "id": 6285792,
-  "naem": "Horawala Junction"
+  "name": "Horawala Junction"
 },
 {
   "id": 8714432,
-  "naem": "Padaviya Divisional Secretariat"
+  "name": "Padaviya Divisional Secretariat"
 },
 {
   "id": 11126122,
-  "naem": "Wellawaya"
+  "name": "Wellawaya"
 },
 {
   "id": 11979654,
-  "naem": "Mirissa city"
+  "name": "Mirissa city"
 }];
