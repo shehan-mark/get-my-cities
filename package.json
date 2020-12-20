@@ -1,7 +1,6 @@
 {
   "name": "get-my-citiess",
-  "version": "1.0.1",
-  "description": "A nice greeter",
+  "version": "1.0.4",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [

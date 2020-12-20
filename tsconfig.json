@@ -7,8 +7,9 @@
     "strict": true,
     "types": [
       "node",
-      "@types/jest"
-    ]
+      "@types/jest",
+    ],
+    "allowSyntheticDefaultImports": true,
   },
   "include": ["src"],
   "exclude": [

@@ -8,7 +8,7 @@ import * as path from 'path';
  * @returns {Array} collection of cities of a particular country and their ids
  * 
  */
-const readCities = async (country: string, locale: string) => {
+exports.readCities = async function (country: string, locale: string) {
   const pre  = locale.toLowerCase();
   const post = country.toLowerCase();
   
@@ -30,7 +30,7 @@ const readCities = async (country: string, locale: string) => {
  * @returns {Object} - object of a particular city which contains its id and name 
  * 
  */
-const getACity = async (country: string, locale: string, id: number) => {
+exports.getACity = async function (country: string, locale: string, id: number) {
   const pre  = locale.toLowerCase();
   const post = country.toLowerCase();
 
@@ -48,9 +48,4 @@ const getACity = async (country: string, locale: string, id: number) => {
     console.log('------- error occured while trying to get a city -------');
     console.log(e);
   }
-}
-
-export {
-  readCities,
-  getACity,
 }
