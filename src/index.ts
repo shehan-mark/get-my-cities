@@ -8,7 +8,7 @@ import * as path from 'path';
  * @returns {Array} collection of cities of a particular country and their ids
  * 
  */
-exports.readCities = async function (country: string, locale: string) {
+export const readCities = async (country: string, locale: string) => {
   const pre  = locale.toLowerCase();
   const post = country.toLowerCase();
   
@@ -30,7 +30,7 @@ exports.readCities = async function (country: string, locale: string) {
  * @returns {Object} - object of a particular city which contains its id and name 
  * 
  */
-exports.getACity = async function (country: string, locale: string, id: number) {
+export const getACity = async (country: string, locale: string, id: number) => {
   const pre  = locale.toLowerCase();
   const post = country.toLowerCase();
 
