@@ -9,7 +9,6 @@
       "node",
       "@types/jest",
     ],
-    "allowSyntheticDefaultImports": true,
   },
   "include": ["src"],
   "exclude": [
