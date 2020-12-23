@@ -14,7 +14,7 @@ export const readCities = async (country: string, locale: string) => {
   
   try {
     const allCities = await import(path.join(__dirname, `/${post}/${pre}_${post}.js`));
-    return allCities;
+    return allCities.default;
   } catch (e) {
     console.log('------- error occured while trying to import file -------');
     console.log(e);
@@ -36,7 +36,7 @@ export const getACity = async (country: string, locale: string, id: number) => {
 
   try {
     const allCities = await import(path.join(__dirname, `/${post}/${pre}_${post}.js`));
-    const filteredCity = allCities.filter((city: any) => {
+    const filteredCity = allCities.default.filter((city: any) => {
       return city.id === id;
     });
     if (filteredCity.length > 0) {
