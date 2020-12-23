@@ -1,12 +1,13 @@
 {
   "name": "get-my-citiess",
-  "version": "1.0.9",
-  "main": "./lib/index.js",
-  "types": "./lib/index.d.ts",
+  "version": "1.0.11",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "files": [
     "lib/lk/en_lk.js",
     "lib/tw/zh_tw.js",
-    "lib/tw/en_tw.js"
+    "lib/tw/en_tw.js",
+    "lib/index.d.ts"
   ],
   "description": "a simple lib to city names with unique ids",
   "scripts": {
