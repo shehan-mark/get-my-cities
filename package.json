@@ -1,8 +1,8 @@
 {
   "name": "get-my-citiess",
-  "version": "1.0.6",
-  "main": "lib/index.js",
-  "types": "lib/index.d.ts",
+  "version": "1.0.9",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
   "files": [
     "lib/lk/en_lk.js",
     "lib/tw/zh_tw.js",
