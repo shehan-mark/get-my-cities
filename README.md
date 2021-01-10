@@ -47,4 +47,15 @@ import { getACity, } from 'get-my-citiess';
 const getThatCity = async (id) => {
     const listOfCities = await getACity('LK', 'en', 5);
 }
+
+// getting districts for a city when districts are divided according to cities
+const getDistrictsForCity = async (id) => {
+    const districts = await getCitysDistricts('TW', 'en', 2);
+}
+
+// getting rezones for a city when available
+const getRezones = async (id) => {
+    const districts = await getRezoneList('TW', 'en', 2);
+}
+
 ```
