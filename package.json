@@ -1,6 +1,6 @@
 {
   "name": "get-my-citiess",
-  "version": "1.0.15",
+  "version": "1.2.0",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -9,6 +9,8 @@
     "lib/tw/en_tw.js",
     "lib/tw/district_en_tw.js",
     "lib/tw/district_zh_tw.js",
+    "lib/tw/rezone_en_tw.js",
+    "lib/tw/rezone_zh_tw.js",
     "lib/index.d.ts"
   ],
   "description": "a simple lib to city names with unique ids",
