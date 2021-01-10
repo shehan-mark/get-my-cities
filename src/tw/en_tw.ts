@@ -1,4 +1,5 @@
 "use strict";
+"use strict";
 
 module.exports = [{
   id: 1,
@@ -17,7 +18,7 @@ module.exports = [{
   name: 'Hsinchu City'
 }, {
   id: 6,
-  name: 'HsinChu County'
+  name: 'Hsinchu County'
 }, {
   id: 7,
   name: 'Taoyuan City'
@@ -65,5 +66,5 @@ module.exports = [{
   name: 'Kinmen County'
 }, {
   id: 22,
-  name: 'Lienchiang County'
+  name: 'Lianjiang County'
 }];

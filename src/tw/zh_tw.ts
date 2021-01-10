@@ -2,7 +2,7 @@
 
 module.exports = [{
   id: 1,
-  name: '臺北市',
+  name: '台北市',
 }, {
   id: 2,
   name: '基隆市',
@@ -14,10 +14,10 @@ module.exports = [{
   name: '宜蘭縣',
 }, {
   id: 5,
-  name: '新竹市',
+  name: '新⽵市',
 }, {
   id: 6,
-  name: '新竹縣',
+  name: '新⽵縣',
 }, {
   id: 7,
   name: '桃園市',
@@ -26,7 +26,7 @@ module.exports = [{
   name: '苗栗縣',
 }, {
   id: 9,
-  name: '臺中市',
+  name: '台中市',
 }, {
   id: 10,
   name: '彰化縣',
@@ -44,10 +44,10 @@ module.exports = [{
   name: '雲林縣',
 }, {
   id: 15,
-  name: '臺南市',
+  name: '台南市',
 }, {
   id: 16,
-  name: '高雄市',
+  name: '⾼雄市',
 }, {
   id: 17,
   name: '澎湖縣',
@@ -56,13 +56,13 @@ module.exports = [{
   name: '屏東縣',
 }, {
   id: 19,
-  name: '臺東縣',
+  name: '台東縣',
 }, {
   id: 20,
   name: '花蓮縣',
 }, {
   id: 21,
-  name: '金門縣',
+  name: '⾦⾨縣',
 }, {
   id: 22,
   name: '連江縣',
